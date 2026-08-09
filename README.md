@@ -108,7 +108,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-[▶️ Watch Dashboard Validation Video](Images%26Videos/DashboardImplementation.mp4)
+![Data Validation Demo](Images%26Videos/DashboardValidation.gif)
 
 ## Conclusion
 
