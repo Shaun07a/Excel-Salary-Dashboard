@@ -8,7 +8,7 @@ The data is from my Excel course, which provides a foundation in analyzing data 
 
 ### 🎥 Dashboard Demo
 
-[▶️ Watch Dashboard Demo](Images%26Videos/Dashboard.mp4)
+![Dashboard Demo](Images%26Videos/Dashboard.gif)
 
 ### Dashboard File
 My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
