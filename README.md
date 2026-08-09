@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![1_Salary_Dashboard.png]([/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif](https://github.com/Shaun07a/Excel-Salary-Dashboard/blob/4efaab3f9e019b0d9a229d3503410b9dd4cc8867/Excel_Project_1_Recording_1.mp4))
 
 ## Introduction
 
